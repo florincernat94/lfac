@@ -1,55 +1,5 @@
-clasa_ab{
-    public: int variabila_k=3;
-    privat: int variabila_o=5;
-    int constanta_eheryh=5;
-};
-struct_ab{
-    boolean variabila_ada=adevarat;
-    int constanta_aegaeg=5;
-};
-int variabila_f;
-int variabila_a=4;
-int variabila_b=4;
-int variabila_e=4;
-int vec_kjk[50];
-float variabila_h=6.5;
-float variabila_g=5.5;
-sir variabila_asd='asf';
-sir variabila_abc=concatenare 'a','ab';
-caracter variabila_bb='a';
-boolean variabila_p=fals;
-boolean variabila_eh=adevarat;
-boolean variabila_jtr=adevarat;
-int functie_ab(int variabila_hj,float variabila_ise){
-    boolean variabila_apa=fals;
-    int variabila_bbaba=5;
-    int constanta_bab=5;
-};
-int constanta_ok=7;
 
-int variabila_jiaet=2;
 
-incepe_program
-variabila_b=6-89+vec_kjk[0];
-Eval(variabila_b);
-clasa_ab obiect;
-obiect.functie_ab();
-variabila_f=variabila_e;
-variabila_f=functie_ab();
-for(variabila_f=0;<variabila_f,3;variabila_f++){
-    variabila_f=3+5;
-};
-while(<variabila_f,3){
-    variabila_f=5+5;
-};
-if(<variabila_f,3){
-    variabila_f=5+5+5;
-};
-else{variabila_f=5+5+5;};
-Eval(variabila_f);
-variabila_f=6;
-Eval(5+variabila_f-6+variabila_asd);
+begin
 
-variabila_abc=concatenare 'ohjaet','jaieg';
-variabila_p=sau adevarat,variabila_jtr;
-sfarsit_program
+end
